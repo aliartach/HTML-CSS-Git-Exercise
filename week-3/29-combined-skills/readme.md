@@ -46,7 +46,7 @@ _Hint: You will need to use a media query._
 
 When you are done, it should look like the image below for screens wider than 992px.
 
-![Screenshot of the hero solution](/images/29-solution-hero.png)
+![Screenshot of the hero solution](../..//images/29-solution-hero.png)
 
 ## 4. Navigation Menu
 
@@ -60,7 +60,7 @@ These links could fit side by side. To complete this exercise, follow the steps 
 
 When you are done, it should look like the image below.
 
-![Screenshot of the nav menu solution](/images/29-solution-nav-menu.png)
+![Screenshot of the nav menu solution](../../images/29-solution-nav-menu.png)
 
 ## 5. Header
 
